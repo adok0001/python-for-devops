@@ -1,3 +1,5 @@
+[![Python CICD](https://github.com/adok0001/python-for-devops/actions/workflows/devops.yml/badge.svg)](https://github.com/adok0001/python-for-devops/actions/workflows/devops.yml)
+
 # python-for-devops
 Python microservice with Continuous Delivery
 
